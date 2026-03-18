@@ -50,6 +50,7 @@ for i in range(n):
 ```
 
 ## Output:
+<img width="1179" height="442" alt="Screenshot 2026-03-16 092111" src="https://github.com/user-attachments/assets/f706bbdf-a24c-4777-9b26-b064cada92cb" />
 
 
 
